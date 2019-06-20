@@ -1,14 +1,69 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"activities": [{
+			"id": 1,
+			"title": "Post 1"
+		},
+		{
+			"id": 2,
+			"title": "Post 2"
+		},
+		{
+			"id": 3,
+			"title": "Post 3"
+		}
+	],
+	"articles": [{
+			"id": 1,
+			"title": "مقالة ١",
+			"link": "https://www.google.com/",
+			"photo": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/WhatsApp%20Image%202019-03-07%20at%205.20.07%20PM.jpeg?alt=media&token=727debca-323d-4b13-b082-efbe0e2db261",
+			"publish_date": 1561037603,
+			"author": {
+				"id": 12,
+				"name": "سارة السعيد",
+				"bio": "دكتورة تعليم احتياجات خاصة",
+				"photo": "https://nash2ar.com/wp-content/uploads/2018/11/%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D9%8A%D8%AF-1-150x150.jpg"
+			}
+		},
+		{
+			"id": 2,
+			"title": "مقالة ٢",
+			"link": "https://www.facebook.com/",
+			"photo": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/WhatsApp%20Image%202019-03-07%20at%205.20.07%20PM.jpeg?alt=media&token=727debca-323d-4b13-b082-efbe0e2db261",
+			"publish_date": 1561037603,
+			"author": {
+				"id": 12,
+				"name": "سارة السعيد",
+				"bio": "دكتورة تعليم احتياجات خاصة",
+				"photo": "https://nash2ar.com/wp-content/uploads/2018/11/%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D9%8A%D8%AF-1-150x150.jpg"
+			}
+		},
+		{
+			"id": 3,
+			"title": "مقالة ٣",
+			"link": "https://www.yahoo.com/",
+			"photo": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/WhatsApp%20Image%202019-03-07%20at%205.20.07%20PM.jpeg?alt=media&token=727debca-323d-4b13-b082-efbe0e2db261",
+			"publish_date": 1561037603,
+			"author": {
+				"id": 12,
+				"name": "سارة السعيد",
+				"bio": "دكتورة تعليم احتياجات خاصة",
+				"photo": "https://nash2ar.com/wp-content/uploads/2018/11/%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D9%8A%D8%AF-1-150x150.jpg"
+			}
+		}
+	],
+	"comments": [{
+			"id": 1,
+			"body": "some comment",
+			"articleId": 1
+		},
+		{
+			"id": 2,
+			"body": "some comment",
+			"articleId": 1
+		}
+	],
+	"profile": {
+		"name": "سارة سعود"
+	}
 }
