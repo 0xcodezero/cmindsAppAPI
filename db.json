@@ -61,9 +61,27 @@
 			"id": 2,
 			"body": "some comment",
 			"articleId": 1
+		},
+		{
+			"id": 3,
+			"body": "some other comment",
+			"articleId": 2
 		}
 	],
 	"profile": {
-		"name": "سارة سعود"
+		"name": "سارة سعود",
+    "relation" : "mother",
+    "kids" : [
+      {
+        "name": "لجين",
+        "birthYear" : 2017,
+        "genderMale": false
+      },
+      {
+        "name": "ياسين",
+        "birthYear" : 2015,
+        "genderMale": true
+      }
+    ]
 	}
 }
