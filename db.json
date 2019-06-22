@@ -1,10 +1,9 @@
 {
-	"activities": [
-    {
+	"activities": [{
 			"id": 1,
 			"title": "التحكم بالاسطوانات ذات المقابض",
 			"photo": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/WhatsApp%20Image%202019-03-07%20at%205.20.07%20PM.jpeg?alt=media&token=727debca-323d-4b13-b082-efbe0e2db261",
-      "video": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/reading.mp4?alt=media&token=c5c1e7d9-0d14-4c31-9da9-465807f50251",
+			"video": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/reading.mp4?alt=media&token=c5c1e7d9-0d14-4c31-9da9-465807f50251",
 			"categoryId": 3,
 			"toys": [{
 				"id": 1,
@@ -34,11 +33,11 @@
 				}
 			]
 		},
-    {
+		{
 			"id": 2,
 			"title": "اللعب بالمكعبات",
 			"photo": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/62340553_2740681622628269_1468203272710914048_n.jpg?alt=media&token=688458be-2e51-4082-a6fa-225ad4320a42",
-      "video": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/Food-Quality.mp4?alt=media&token=5a256ab9-a04b-4159-b669-c62c277408e8",
+			"video": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/Food-Quality.mp4?alt=media&token=5a256ab9-a04b-4159-b669-c62c277408e8",
 			"categoryId": 1,
 			"toys": [{
 				"id": 2,
@@ -68,24 +67,23 @@
 				}
 			]
 		},
-    {
+		{
 			"id": 3,
 			"title": "الرسم الحر بالفرشاة",
 			"photo": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/WhatsApp%20Image%202019-03-07%20at%205.20.07%20PM.jpeg?alt=media&token=727debca-323d-4b13-b082-efbe0e2db261",
-      "video": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/reading.mp4?alt=media&token=c5c1e7d9-0d14-4c31-9da9-465807f50251",
+			"video": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/reading.mp4?alt=media&token=c5c1e7d9-0d14-4c31-9da9-465807f50251",
 			"categoryId": 1,
-			"toys": [
-        {
-  				"id": 4,
-  				"name": "الفرشاة",
-  				"link": "https://salla.sa/cmindsapp/rAYrvw"
-  			},
-        {
-          "id": 5,
-          "name": "ألوان قابلة للغسل",
-          "link": "https://salla.sa/cmindsapp/rAYrvw"
-        }
-      ],
+			"toys": [{
+					"id": 4,
+					"name": "الفرشاة",
+					"link": "https://salla.sa/cmindsapp/rAYrvw"
+				},
+				{
+					"id": 5,
+					"name": "ألوان قابلة للغسل",
+					"link": "https://salla.sa/cmindsapp/rAYrvw"
+				}
+			],
 			"selectedAnswerId": -1,
 			"answers": [{
 					"id": 1,
@@ -101,6 +99,115 @@
 				}
 			]
 		}
+	],
+	"activityDetails": [{
+			"id": 1,
+			"activityId": 1,
+			"description": "وصف النشاط و بيان أهميته أثناء تنفيذه",
+			"howTo": "كيفية تقديمه للطفل وما يجب مراعاته",
+      "tools": [{
+				"id": 1,
+				"name": "ُToy 1 For Testing"
+			},
+       {
+				"id": 2,
+				"name": "أداة ٢"
+			},
+       {
+				"id": 3,
+				"name": "أداة ٣٣٣٣٣ وعاليها وصف طويل شوية عشان قياس الارتفاعات"
+			},
+       {
+				"id": 4,
+				"name": "أداة ٤"
+			}],
+			"directTargets": [{
+				"id": 1,
+				"name": "هدف مباشر ١"
+			}],
+			"indirectTargets": [{
+				"id": 1,
+				"name": "هدف غير مباشر ١"
+			}, {
+				"id": 2,
+				"name": "هدف غير مباشر ٢"
+			}, {
+				"id": 3,
+				"name": "هدف غير مباشر ٣"
+			}]
+		},
+    {
+			"id": 2,
+			"activityId": 3,
+			"description": "وصف النشاط الثالث مع ايضاح أهميته",
+			"howTo": "كيفية تقديمه للطفل وما يجب مراعاته",
+      "tools": [{
+				"id": 1,
+				"name": "ُToy 3 For Testing"
+			},
+       {
+				"id": 2,
+				"name": "أداة ٢"
+			},
+       {
+				"id": 3,
+				"name": "أداة ٣٣٣٣٣ وعاليها وصف طويل شوية عشان قياس الارتفاعات"
+			},
+       {
+				"id": 4,
+				"name": "أداة ٤"
+			}],
+			"directTargets": [{
+				"id": 1,
+				"name": "هدف مباشر ١"
+			}],
+			"indirectTargets": [{
+				"id": 1,
+				"name": "هدف غير مباشر ١"
+			}, {
+				"id": 2,
+				"name": "هدف غير مباشر ٢"
+			}, {
+				"id": 3,
+				"name": "هدف غير مباشر ٣"
+			}]
+		},
+    {
+  			"id": 4,
+  			"activityId": 2,
+  			"description": "وصف النشاط الثاني وايضاح أهميتة",
+  			"howTo": "كيفية تقديمه للطفل وما يجب مراعاته",
+        "tools": [{
+  				"id": 1,
+  				"name": "ُToy 2 For Testing"
+  			},
+         {
+  				"id": 2,
+  				"name": "أداة ٢"
+  			},
+         {
+  				"id": 3,
+  				"name": "أداة ٣٣٣٣٣ وعاليها وصف طويل شوية عشان قياس الارتفاعات"
+  			},
+         {
+  				"id": 4,
+  				"name": "أداة ٤"
+  			}],
+  			"directTargets": [{
+  				"id": 1,
+  				"name": "هدف مباشر ١"
+  			}],
+  			"indirectTargets": [{
+  				"id": 1,
+  				"name": "هدف غير مباشر ١"
+  			}, {
+  				"id": 2,
+  				"name": "هدف غير مباشر ٢"
+  			}, {
+  				"id": 3,
+  				"name": "هدف غير مباشر ٣"
+  			}]
+  		}
 	],
 	"metadata": {
 		"categories": [{
@@ -163,22 +270,6 @@
 				"bio": "دكتورة صيدلية، مهتمة بآساليب تعليم المنتسوري",
 				"photo": "https://nash2ar.com/wp-content/uploads/2018/11/%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D9%8A%D8%AF-1-150x150.jpg"
 			}
-		}
-	],
-	"comments": [{
-			"id": 1,
-			"body": "some comment",
-			"articleId": 1
-		},
-		{
-			"id": 2,
-			"body": "some comment",
-			"articleId": 1
-		},
-		{
-			"id": 3,
-			"body": "some other comment",
-			"articleId": 2
 		}
 	],
 	"profile": {
