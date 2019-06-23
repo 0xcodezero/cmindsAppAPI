@@ -310,34 +310,5 @@
     		}
   		]
   	}
-  ],
-	"kids": [{
-			"id": 1,
-			"name": "محاسن",
-			"familyId": 3,
-			"birthYear": 2014,
-			"genderMale": false
-		},
-		{
-			"id": 2,
-			"name": "محمد",
-			"familyId": 20,
-			"birthYear": 2013,
-			"genderMale": true
-		},
-		{
-			"id": 12,
-			"familyId": 1,
-			"name": "لجين",
-			"birthYear": 2017,
-			"genderMale": false
-		},
-		{
-			"id": 10,
-			"familyId": 1,
-			"name": "ياسين",
-			"birthYear": 2015,
-			"genderMale": true
-		}
-	]
+  ]
 }
