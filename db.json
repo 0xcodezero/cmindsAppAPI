@@ -3,7 +3,7 @@
 			"id": 1,
 			"title": "التحكم بالاسطوانات ذات المقابض",
 			"photo": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/WhatsApp%20Image%202019-03-07%20at%205.20.07%20PM.jpeg?alt=media&token=727debca-323d-4b13-b082-efbe0e2db261",
-			"video": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/reading.mp4?alt=media&token=c5c1e7d9-0d14-4c31-9da9-465807f50251",
+			"video": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/%D9%86%D8%B4%D8%A7%D8%B7%20%D8%A7%D9%84%D9%84%D8%B6%D9%851.mp4?alt=media&token=5d830795-056a-4bea-892d-3e6a37a48f6c",
 			"categoryId": 3,
 			"toys": [{
 				"id": 1,
@@ -228,6 +228,27 @@
 				"title": "إجتماعية وعاطفية",
 				"code": "social-emotional"
 			}
+		],
+		"consultation_types": [{
+				"id": 1,
+				"title": "أسرية",
+				"code": "family"
+			},
+			{
+				"id": 2,
+				"title": "تربوية",
+				"code": "educational"
+			},
+			{
+				"id": 3,
+				"title": "طبية",
+				"code": "medical"
+			},
+			{
+				"id": 4,
+				"title": "أخرى",
+				"code": "other"
+			}
 		]
 	},
 	"articles": [{
@@ -277,6 +298,7 @@
   		"name": "سارة سعود",
   		"familyId": 1,
   		"relation": "mother",
+			"avatar" : "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/profile-picture-demo-7.jpg?alt=media&token=1ee439a8-4b56-47d3-9c4a-cad504c070e9",
       "token": "YGrVXm559rQVdRoQNJl1X-b2Vq_we_A6",
   		"kids": [{
   				"id": 12,
@@ -298,6 +320,7 @@
       "id" : 13,
   		"name": "دعاء",
   		"familyId": 20,
+			"avatar" : "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/Chloe-Boehm-Profile-photo.jpg?alt=media&token=8f17d470-5e5e-479d-a905-35de4d01dd84",
       "token": "X9Irc70JMQBu4G8YuKV8uFtCh81kWByj",
   		"relation": "mother",
   		"kids": [
