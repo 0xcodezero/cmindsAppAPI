@@ -211,22 +211,71 @@
 		"categories": [{
 				"id": 1,
 				"title": "إدراكية",
-				"code": "cognitive"
+				"code": "cognitive",
+				"red": 141,
+				"green":199,
+				"blue":90
 			},
 			{
 				"id": 2,
 				"title": "لغوية",
-				"code": "linguistic"
+				"code": "linguistic",
+				"red": 199,
+				"green":52,
+				"blue":127
 			},
 			{
 				"id": 3,
 				"title": "حركية",
-				"code": "motor"
+				"code": "motor",
+				"red": 79,
+				"green":192,
+				"blue":224
 			},
 			{
 				"id": 4,
 				"title": "إجتماعية وعاطفية",
-				"code": "social-emotional"
+				"code": "social-emotional",
+				"red": 234,
+				"green":148,
+				"blue":54
+			}
+		],
+		"areas":[
+			{
+				"id": 1,
+				"title": "المنطق",
+				"image": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/cubes.png?alt=media&token=3a532527-8083-4b37-a630-89bb85b9ad86"
+			},
+			{
+				"id": 2,
+				"title": "الموسيقى والرسم",
+				"image": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/consultant.png?alt=media&token=6031af5b-e40b-404a-8266-5e836de17c98"
+			},
+			{
+				"id": 3,
+				"title": "النظافة الشخصية",
+				"image": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/article.png?alt=media&token=2e15d917-daaa-460f-ba89-e0dfe2567a75"
+			},
+			{
+				"id": 4,
+				"title": "الحياة العملية",
+				"image": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/progress.png?alt=media&token=7af8857f-17e0-429e-b51b-0208f6ade81b"
+			},
+			{
+				"id": 5,
+				"title": "الحساب",
+				"image": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/progress.png?alt=media&token=7af8857f-17e0-429e-b51b-0208f6ade81b"
+			},
+			{
+				"id": 6,
+				"title": "الاتزان",
+				"image": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/progress.png?alt=media&token=7af8857f-17e0-429e-b51b-0208f6ade81b"
+			},
+			{
+				"id": 7,
+				"title": "العلاقات الإجتماعية",
+				"image": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/progress.png?alt=media&token=7af8857f-17e0-429e-b51b-0208f6ade81b"
 			}
 		],
 		"consultation_types": [{
