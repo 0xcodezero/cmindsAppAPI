@@ -1,43 +1,10 @@
 {
-	"activities": [{
-			"id": 1,
-			"title": "التحكم بالاسطوانات ذات المقابض",
-			"photo": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/WhatsApp%20Image%202019-03-07%20at%205.20.07%20PM.jpeg?alt=media&token=727debca-323d-4b13-b082-efbe0e2db261",
-			"video": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/%D9%86%D8%B4%D8%A7%D8%B7%20%D8%A7%D9%84%D9%84%D8%B6%D9%851.mp4?alt=media&token=5d830795-056a-4bea-892d-3e6a37a48f6c",
-			"categoryId": 3,
-			"toys": [{
-				"id": 1,
-				"name": "لعبة الذكاء",
-				"link": "https://salla.sa/cmindsapp/rAYrvw"
-			}],
-			"selectedAnswerId": -1,
-			"answers": [{
-					"id": 1,
-					"name": "صعب، لم يدركه"
-				},
-				{
-					"id": 2,
-					"name": "حاول، لم يتمه"
-				},
-				{
-					"id": 3,
-					"name": "اتمه بمساعدة"
-				},
-				{
-					"id": 4,
-					"name": "اتمه بصعوبه"
-				},
-				{
-					"id": 5,
-					"name": "اتمه بسهولة"
-				}
-			]
-		},
+	"activities": [
 		{
 			"id": 2,
 			"title": "اللعب بالمكعبات",
 			"photo": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/62340553_2740681622628269_1468203272710914048_n.jpg?alt=media&token=688458be-2e51-4082-a6fa-225ad4320a42",
-			"video": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/Food-Quality.mp4?alt=media&token=5a256ab9-a04b-4159-b669-c62c277408e8",
+			"video": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/%D9%86%D8%B4%D8%A7%D8%B7%20%D8%A7%D9%84%D9%84%D8%B6%D9%851.mp4?alt=media&token=5d830795-056a-4bea-892d-3e6a37a48f6c",
 			"categoryId": 1,
 			"toys": [{
 				"id": 2,
@@ -100,43 +67,7 @@
 			]
 		}
 	],
-	"activityDetails": [{
-			"id": 1,
-			"activityId": 1,
-			"description": "وصف النشاط و بيان أهميته أثناء تنفيذه",
-			"howTo": "كيفية تقديمه للطفل وما يجب مراعاته",
-			"tools": [{
-					"id": 1,
-					"name": "ُToy 1 For Testing"
-				},
-				{
-					"id": 2,
-					"name": "أداة ٢"
-				},
-				{
-					"id": 3,
-					"name": "أداة ٣٣٣٣٣ وعاليها وصف طويل شوية عشان قياس الارتفاعات"
-				},
-				{
-					"id": 4,
-					"name": "أداة ٤"
-				}
-			],
-			"directTargets": [{
-				"id": 1,
-				"name": "هدف مباشر ١"
-			}],
-			"indirectTargets": [{
-				"id": 1,
-				"name": "هدف غير مباشر ١"
-			}, {
-				"id": 2,
-				"name": "هدف غير مباشر ٢"
-			}, {
-				"id": 3,
-				"name": "هدف غير مباشر ٣"
-			}]
-		},
+	"activityDetails": [
 		{
 			"id": 2,
 			"activityId": 3,
