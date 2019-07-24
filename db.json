@@ -229,6 +229,22 @@
 				"title": "أخرى",
 				"code": "other"
 			}
+		],
+		"suggestion_types": [{
+				"id": 1,
+				"title": "تقنية",
+				"image": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/article.png?alt=media&token=2e15d917-daaa-460f-ba89-e0dfe2567a75"
+			},
+			{
+				"id": 2,
+				"title": "تعليمية",
+				"image": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/article.png?alt=media&token=2e15d917-daaa-460f-ba89-e0dfe2567a75"
+			},
+			{
+				"id": 3,
+				"title": "أخرى",
+				"image": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/article.png?alt=media&token=2e15d917-daaa-460f-ba89-e0dfe2567a75"
+			}
 		]
 	},
 	"articles": [{
