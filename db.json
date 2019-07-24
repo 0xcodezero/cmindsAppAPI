@@ -2,8 +2,8 @@
 	"activities": [
 		{
 			"id": 2,
-			"title": "اللعب بالمكعبات test",
-			"photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLh-GXrxccnt7AO_fwiFupo4jZ8eyWK1BAusC2SzlzdDQtBggG",
+			"title": "نشاط اللضم",
+			"photo": "https://3.top4top.net/p_1300p61x51.png",
 			"video": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/%D9%86%D8%B4%D8%A7%D8%B7%20%D8%A7%D9%84%D9%84%D8%B6%D9%851.mp4?alt=media&token=5d830795-056a-4bea-892d-3e6a37a48f6c",
 			"categoryId": 1,
 			"toys": [{
@@ -65,46 +65,137 @@
 					"name": "لم يدرك النشاط"
 				}
 			]
-		}
-	],
-	"activityDetails": [
-		{
-			"id": 2,
-			"activityId": 3,
-			"description": "وصف النشاط الثالث مع ايضاح أهميته",
-			"howTo": "كيفية تقديمه للطفل وما يجب مراعاته",
-			"tools": [{
-					"id": 1,
-					"name": "ُToy 3 For Testing"
-				},
-				{
-					"id": 2,
-					"name": "أداة ٢"
-				},
-				{
-					"id": 3,
-					"name": "أداة ٣٣٣٣٣ وعاليها وصف طويل شوية عشان قياس الارتفاعات"
-				},
-				{
-					"id": 4,
-					"name": "أداة ٤"
-				}
-			],
-			"directTargets": [{
-				"id": 1,
-				"name": "هدف مباشر ١"
-			}],
-			"indirectTargets": [{
-				"id": 1,
-				"name": "هدف غير مباشر ١"
-			}, {
-				"id": 2,
-				"name": "هدف غير مباشر ٢"
-			}, {
-				"id": 3,
-				"name": "هدف غير مباشر ٣"
-			}]
 		},
+        {
+            "id": 4,
+            "title": "اللعب بالمكعبات",
+            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLh-GXrxccnt7AO_fwiFupo4jZ8eyWK1BAusC2SzlzdDQtBggG",
+            "video": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/reading.mp4?alt=media&token=c5c1e7d9-0d14-4c31-9da9-465807f50251",
+            "categoryId": 3,
+            "toys": [{
+                "id": 4,
+                "name": "الفرشاة",
+                "link": "https://salla.sa/cmindsapp/rAYrvw"
+            },
+            {
+                "id": 5,
+                "name": "ألوان قابلة للغسل",
+                "link": "https://salla.sa/cmindsapp/rAYrvw"
+            }
+            ],
+            "selectedAnswerId": -1,
+            "answers": [{
+                "id": 1,
+                "name": "أراد شيء ونفذه"
+            },
+            {
+                "id": 2,
+                "name": "اداء مشتت"
+            },
+            {
+                "id": 3,
+                "name": "لم يدرك النشاط"
+            }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "مصفوفة الألوان",
+            "photo": "https://pbs.twimg.com/media/DyYq4buX0AA53iT.jpg:large",
+            "video": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/reading.mp4?alt=media&token=c5c1e7d9-0d14-4c31-9da9-465807f50251",
+            "categoryId": 2,
+            "toys": [{
+                "id": 4,
+                "name": "الفرشاة",
+                "link": "https://salla.sa/cmindsapp/rAYrvw"
+            },
+            {
+                "id": 5,
+                "name": "ألوان قابلة للغسل",
+                "link": "https://salla.sa/cmindsapp/rAYrvw"
+            }
+            ],
+            "selectedAnswerId": -1,
+            "answers": [{
+                "id": 1,
+                "name": "أراد شيء ونفذه"
+            },
+            {
+                "id": 2,
+                "name": "اداء مشتت"
+            },
+            {
+                "id": 3,
+                "name": "لم يدرك النشاط"
+            }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "مهارة استخدام الملقط",
+            "photo": "https://2.top4top.net/p_13006hiwv1.png",
+            "video": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/reading.mp4?alt=media&token=c5c1e7d9-0d14-4c31-9da9-465807f50251",
+            "categoryId": 4,
+            "toys": [{
+                "id": 4,
+                "name": "الفرشاة",
+                "link": "https://salla.sa/cmindsapp/rAYrvw"
+            },
+            {
+                "id": 5,
+                "name": "ألوان قابلة للغسل",
+                "link": "https://salla.sa/cmindsapp/rAYrvw"
+            }
+            ],
+            "selectedAnswerId": -1,
+            "answers": [{
+                "id": 1,
+                "name": "أراد شيء ونفذه"
+            },
+            {
+                "id": 2,
+                "name": "اداء مشتت"
+            },
+            {
+                "id": 3,
+                "name": "لم يدرك النشاط"
+            }
+            ]
+        }
+	],
+    "activityDetails": [
+        {
+            "id": 2,
+            "activityId": 3,
+            "description": " احد أنشطة الحياة العملية في منهج منتسوري تندرج تحت قسم التحكم في العضلات الدقيقة",
+            "howTo": "إمساك الرباط بإصبع الإبهام و السبابة",
+            "tools": [{
+                "id": 1,
+                "name": "رباط"
+            },
+            {
+                "id": 2,
+                "name": " كف بلاستيك ذو فتحات "
+            }
+            ],
+            "directTargets": [{
+                "id": 1,
+                "name": "ادخال الرباط في الفتحات"
+            }],
+            "indirectTargets": [{
+                "id": 1,
+                "name": "التآزر العصبي البصري"
+            }, {
+                "id": 2,
+                "name": "التناسق الحركي"
+            }, {
+                "id": 3,
+                "name": "زيادة التركيز"
+            }, {
+                "id": 4,
+                "name": "التحكم في عضلات اليد"
+            }]
+        },
 		{
 			"id": 4,
 			"activityId": 2,
@@ -249,41 +340,41 @@
 	},
 	"articles": [{
 			"id": 1,
-			"title": "مقالة ١",
-			"link": "https://www.google.com/",
-			"photo": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/WhatsApp%20Image%202019-03-07%20at%205.20.07%20PM.jpeg?alt=media&token=727debca-323d-4b13-b082-efbe0e2db261",
+			"title": "ضبط سلوك الطفل",
+			"link": "https://mawdoo3.com/%D8%B6%D8%A8%D8%B7_%D8%B3%D9%84%D9%88%D9%83_%D8%A7%D9%84%D8%B7%D9%81%D9%84",
+			"photo": "https://modo3.com/thumbs/fit630x300/171096/1493121800/%D8%B6%D8%A8%D8%B7_%D8%B3%D9%84%D9%88%D9%83_%D8%A7%D9%84%D8%B7%D9%81%D9%84.jpg",
 			"publish_date": 1561037603,
 			"author": {
 				"id": 12,
 				"name": "سارة السعيد",
 				"bio": "دكتورة تعليم احتياجات خاصة",
-				"photo": "https://nash2ar.com/wp-content/uploads/2018/11/%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D9%8A%D8%AF-1-150x150.jpg"
+				"photo": "https://identity-mag.com/wp-content/uploads/2019/03/nouf-al-salem.jpg"
 			}
 		},
 		{
 			"id": 2,
-			"title": "مقالة ٢",
+            "title": "فوائد قراءة القصص للأطفال",
 			"link": "https://www.facebook.com/",
-			"photo": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/WhatsApp%20Image%202019-03-07%20at%205.20.07%20PM.jpeg?alt=media&token=727debca-323d-4b13-b082-efbe0e2db261",
+			"photo": "https://modo3.com/thumbs/fit630x300/165450/1491123568/%D9%81%D9%88%D8%A7%D8%A6%D8%AF_%D9%82%D8%B1%D8%A7%D8%A1%D8%A9_%D8%A7%D9%84%D9%82%D8%B5%D8%B5_%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84.jpg",
 			"publish_date": 1561037603,
 			"author": {
 				"id": 12,
 				"name": "سارة السعيد",
 				"bio": "دكتورة تعليم احتياجات خاصة",
-				"photo": "https://nash2ar.com/wp-content/uploads/2018/11/%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D9%8A%D8%AF-1-150x150.jpg"
+				"photo": "https://identity-mag.com/wp-content/uploads/2019/03/nouf-al-salem.jpg"
 			}
 		},
 		{
 			"id": 3,
-			"title": "مقالة ٣",
+			"title": "طرق علاج ضعف التركيز عند الأطفال",
 			"link": "https://www.yahoo.com/",
-			"photo": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/WhatsApp%20Image%202019-03-07%20at%205.20.07%20PM.jpeg?alt=media&token=727debca-323d-4b13-b082-efbe0e2db261",
+			"photo": "https://modo3.com/thumbs/fit630x300/161525/1525095526/%D8%B7%D8%B1%D9%82_%D8%B9%D9%84%D8%A7%D8%AC_%D8%B6%D8%B9%D9%81_%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%B2_%D8%B9%D9%86%D8%AF_%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84.jpg",
 			"publish_date": 1561037603,
 			"author": {
 				"id": 13,
 				"name": "دعاء مجدي",
 				"bio": "دكتورة صيدلية، مهتمة بآساليب تعليم المنتسوري",
-				"photo": "https://nash2ar.com/wp-content/uploads/2018/11/%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D9%8A%D8%AF-1-150x150.jpg"
+				"photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7yvz-5EWkylCY_N51aQD0V4KqOQGHgMKoddCnuruFzApgnph0"
 			}
 		}
 	],
