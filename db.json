@@ -33,39 +33,7 @@
 					"name": "اتمه بسهولة"
 				}
 			]
-		},
-		{
-			"id": 3,
-			"title": "الرسم الحر بالفرشاة",
-			"photo": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/WhatsApp%20Image%202019-03-07%20at%205.20.07%20PM.jpeg?alt=media&token=727debca-323d-4b13-b082-efbe0e2db261",
-			"video": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/reading.mp4?alt=media&token=c5c1e7d9-0d14-4c31-9da9-465807f50251",
-			"categoryId": 2,
-			"toys": [{
-					"id": 4,
-					"name": "الفرشاة",
-					"link": "https://salla.sa/cmindsapp/rAYrvw"
-				},
-				{
-					"id": 5,
-					"name": "ألوان قابلة للغسل",
-					"link": "https://salla.sa/cmindsapp/rAYrvw"
-				}
-			],
-			"selectedAnswerId": -1,
-			"answers": [{
-					"id": 1,
-					"name": "أراد شيء ونفذه"
-				},
-				{
-					"id": 2,
-					"name": "اداء مشتت"
-				},
-				{
-					"id": 3,
-					"name": "لم يدرك النشاط"
-				}
-			]
-        }
+		}
 	],
     "activityDetails": [
         {
