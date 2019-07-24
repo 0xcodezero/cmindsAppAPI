@@ -37,9 +37,73 @@
         {
             "id": 3,
             "title": "الرسم الحر بالفرشاة",
-            "photo": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/WhatsApp%20Image%202019-03-07%20at%205.20.07%20PM.jpeg?alt=media&token=727debca-323d-4b13-b082-efbe0e2db261",
+            "photo": "https://st2.depositphotos.com/3206425/5559/i/950/depositphotos_55598075-stock-photo-child-painting-with-brush.jpg",
             "video": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/reading.mp4?alt=media&token=c5c1e7d9-0d14-4c31-9da9-465807f50251",
             "categoryId": 2,
+            "toys": [{
+                "id": 4,
+                "name": "الفرشاة",
+                "link": "https://salla.sa/cmindsapp/rAYrvw"
+            },
+            {
+                "id": 5,
+                "name": "ألوان قابلة للغسل",
+                "link": "https://salla.sa/cmindsapp/rAYrvw"
+            }
+            ],
+            "selectedAnswerId": -1,
+            "answers": [{
+                "id": 1,
+                "name": "أراد شيء ونفذه"
+            },
+            {
+                "id": 2,
+                "name": "اداء مشتت"
+            },
+            {
+                "id": 3,
+                "name": "لم يدرك النشاط"
+            }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "نشاط مصفوفة الألوان",
+            "photo": "https://pbs.twimg.com/media/DyYq4buX0AA53iT.jpg",
+            "video": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/reading.mp4?alt=media&token=c5c1e7d9-0d14-4c31-9da9-465807f50251",
+            "categoryId": 4,
+            "toys": [{
+                "id": 4,
+                "name": "الفرشاة",
+                "link": "https://salla.sa/cmindsapp/rAYrvw"
+            },
+            {
+                "id": 5,
+                "name": "ألوان قابلة للغسل",
+                "link": "https://salla.sa/cmindsapp/rAYrvw"
+            }
+            ],
+            "selectedAnswerId": -1,
+            "answers": [{
+                "id": 1,
+                "name": "أراد شيء ونفذه"
+            },
+            {
+                "id": 2,
+                "name": "اداء مشتت"
+            },
+            {
+                "id": 3,
+                "name": "لم يدرك النشاط"
+            }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "مهارة استخدام الملقط",
+            "photo": "https://2.top4top.net/p_13006hiwv1.png",
+            "video": "https://firebasestorage.googleapis.com/v0/b/sawaed-4bb90.appspot.com/o/reading.mp4?alt=media&token=c5c1e7d9-0d14-4c31-9da9-465807f50251",
+            "categoryId": 3,
             "toys": [{
                 "id": 4,
                 "name": "الفرشاة",
